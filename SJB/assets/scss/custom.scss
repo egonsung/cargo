@@ -1,15 +1,81 @@
 @import "variables.multipage-marketing";
 
+.object-fit{
+	width:100%;
+	object-fit: cover;
+}
 .navTop{
-	border-bottom: solid thin grey;
 }
 
 .mainSlider{
 	height: 70vh;
 }
 
-.trackID{
-	background: lightgray;
+.trackIDCon{
+	.trackIDBlk{
+		width: 80vw;
+		max-width: 800px !important;    
+		position: relative;
+    	top: -60px;
+    	background: white;
+    	box-shadow: 3px 3px 17px 8px rgba(0, 0, 0, 0.3);
+	}
+}
+
+.shippingProcessCon{
+	.shippingProcessBlk{
+		background:white;
+		.number{
+			h1{
+				position: absolute;
+			    top: -30px;
+			    background: white;
+				padding-left: 10px;
+				padding-right: 10px;
+			}
+		}
+	}
+}
+
+.shippingServicesCon{
+	ul.nav{
+		width: 100%;
+		li.nav-item{
+			a.nav-link{
+				background: $g-color-secondary;
+				transition: all ease-in-out 0.25s;
+				&:hover{
+					padding-top: 15px;
+					transition: all ease-in-out 0.25s;
+				}
+			}
+			a.nav-link.active{
+				background: white;
+				padding-top: 20px;
+			}
+		}
+	}
+	.tab-content{
+		background:white;
+	}
+}
+
+.cargoLimitCon{
+	.container{
+		max-width: 900px;
+		.shortcode-html{
+			.card{
+				a.d-block{
+					color: $g-color-secondary;
+					background: $g-color-primary;
+				}
+				a.collapsed{
+					color: $g-color-primary;
+					background:$g-color-secondary;
+				}
+			}
+		}
+	}
 }
 
 .line-separator-small{
@@ -18,7 +84,7 @@
 		display: inline-block;
 		border-top: 4px solid black;
 		width: 20%;
-		border-color: $g-color-primary;
+		border-color: $g-color-secondary;
 	}
 
 	.triangle{
@@ -32,7 +98,7 @@
 	    margin-left: 3px;
 	    margin-right: 3px;
 	    margin-bottom: -3px;
-	    border-color: $g-color-primary;
+	    border-color: $g-color-secondary;
 	}
 }
 

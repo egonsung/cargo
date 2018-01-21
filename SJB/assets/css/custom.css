@@ -1,11 +1,49 @@
-.navTop {
-  border-bottom: solid thin grey; }
+.object-fit {
+  width: 100%;
+  object-fit: cover; }
 
 .mainSlider {
   height: 70vh; }
 
-.trackID {
-  background: lightgray; }
+.trackIDCon .trackIDBlk {
+  width: 80vw;
+  max-width: 800px !important;
+  position: relative;
+  top: -60px;
+  background: white;
+  box-shadow: 3px 3px 17px 8px rgba(0, 0, 0, 0.3); }
+
+.shippingProcessCon .shippingProcessBlk {
+  background: white; }
+  .shippingProcessCon .shippingProcessBlk .number h1 {
+    position: absolute;
+    top: -30px;
+    background: white;
+    padding-left: 10px;
+    padding-right: 10px; }
+
+.shippingServicesCon ul.nav {
+  width: 100%; }
+  .shippingServicesCon ul.nav li.nav-item a.nav-link {
+    background: #f5d700;
+    transition: all ease-in-out 0.25s; }
+    .shippingServicesCon ul.nav li.nav-item a.nav-link:hover {
+      padding-top: 15px;
+      transition: all ease-in-out 0.25s; }
+  .shippingServicesCon ul.nav li.nav-item a.nav-link.active {
+    background: white;
+    padding-top: 20px; }
+.shippingServicesCon .tab-content {
+  background: white; }
+
+.cargoLimitCon .container {
+  max-width: 900px; }
+  .cargoLimitCon .container .shortcode-html .card a.d-block {
+    color: #f5d700;
+    background: #005072; }
+  .cargoLimitCon .container .shortcode-html .card a.collapsed {
+    color: #005072;
+    background: #f5d700; }
 
 .line-separator-small {
   width: 100%; }

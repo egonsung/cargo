@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 170 170" style="enable-background:new 0 0 170 170;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#F5D700;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="home">
+	<g>
+		<g>
+			<g>
+				<path class="st0" d="M80.2,121.6H30.9c-1.4,0-2.5-1.1-2.5-2.5V74.6h5v42.1h44.2V95.6h5v23.6C82.7,120.5,81.5,121.6,80.2,121.6z"
+					/>
+				<rect x="40" y="75" class="st0" width="31.1" height="5"/>
+				<path class="st0" d="M60.5,99.4h-9.8c-1.4,0-2.5-1.1-2.5-2.5V77.5h5v16.9H58V77.5h5v19.4C63,98.2,61.8,99.4,60.5,99.4z"/>
+				<path class="st0" d="M139.3,121.6H90c-1.4,0-2.5-1.1-2.5-2.5V95.6h5v21.1h44.2V74.6h5v44.6C141.8,120.5,140.6,121.6,139.3,121.6
+					z"/>
+				<g>
+					<g>
+						<circle class="st1" cx="85.1" cy="81.6" r="9.5"/>
+					</g>
+				</g>
+				<rect x="99.1" y="75" class="st0" width="31.1" height="5"/>
+				<path class="st0" d="M119.6,99.4h-9.8c-1.4,0-2.5-1.1-2.5-2.5V77.5h5v16.9h4.8V77.5h5v19.4C122.1,98.2,120.9,99.4,119.6,99.4z"
+					/>
+			</g>
+			<g>
+				<path class="st0" d="M109.7,66.1H60.5c-1.4,0-2.5-1.1-2.5-2.5V19h5v42.1h44.2V19h5v44.6C112.2,65,111.1,66.1,109.7,66.1z"/>
+				<rect x="69.5" y="19.4" class="st0" width="33.7" height="5"/>
+				<path class="st0" d="M90,43.8h-9.8c-1.4,0-2.5-1.1-2.5-2.5V21.9h5v16.9h4.8V21.9h5v19.4C92.5,42.7,91.4,43.8,90,43.8z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="73.1" y="135.2" class="st0" width="5" height="13.3"/>
+				<rect x="91.9" y="135.2" class="st0" width="5" height="13.3"/>
+			</g>
+			<g>
+				<rect x="37.6" y="135.2" class="st0" width="5" height="13.3"/>
+			</g>
+			<g>
+				<rect x="127.4" y="135.2" class="st0" width="5" height="13.3"/>
+			</g>
+			<rect x="21.3" y="146" class="st0" width="127.4" height="5"/>
+			<rect x="21.3" y="131" class="st0" width="127.4" height="5"/>
+		</g>
+	</g>
+</g>
+</svg>

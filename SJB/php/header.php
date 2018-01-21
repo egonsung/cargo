@@ -2,26 +2,27 @@
         <div class="u-header__section g-bg-white g-transition-0_3">
           <nav class="js-mega-menu navbar navbar-expand-lg g-pa-0">
             <div class="container">
-              <!-- Logo -->
+              
               <div class="row col-12">
 
                 <div class="col-12 pl-0 pr-0 navTop">
-                  <ul class="col-auto list-inline g-pos-rel g-top-minus-3 g-py-20 g-py-6--lg g-pr-5 g-mr-60 g-mr-0--lg p-0 m-0">
+                  <ul class="col-auto list-inline g-pos-rel g-top-minus-3 g-py-20 g-py-6--lg g-pr-5 g-mr-60 g-mr-0--lg p-0 m-0 d-flex justify-content-end">
                     <li class="list-inline-item g-mx-0">
-                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="fa fa-facebook"></i></a>
+                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="g-color-text fa fa-weibo"></i></a>
                     </li>
                     <li class="list-inline-item g-mx-0">
-                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="fa fa-twitter"></i></a>
+                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="g-color-text fa fa-wechat"></i></a>
                     </li>
                     <li class="list-inline-item g-mx-0">
-                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="fa fa-pinterest"></i></a>
+                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="g-color-text fa fa-linkedin"></i></a>
                     </li>
                   </ul>
                 </div>
 
-                <div class="col-12 d-flex pb-2 pt-2 pl-0 pr-0">
+                <div class="col-12 d-flex pb-2 pl-0 pr-0">
+                  <!-- Logo -->
                   <a class="navbar-brand" href="home-page-1.html">
-                    <img class="g-width-200" src="./SJB/src/img/logo/logo.png" alt="Logo">
+                    <img class="g-width-200" src="./SJB/assets/img/logo/logo-1.png" alt="Logo">
                   </a>
                   <!-- End Logo -->
 
@@ -41,8 +42,8 @@
                   <!-- End Responsive Toggle Button -->
 
                   <!-- Navigation -->
-                  <div id="navBar" class="collapse navbar-collapse align-items-center flex-sm-row">
-                    <ul class="navbar-nav ml-auto g-pb-30 g-pb-0--lg">
+                  <div id="navBar" class="collapse navbar-collapse align-items-baseline flex-sm-row">
+                    <ul class="navbar-nav ml-auto g-pb-30 g-pb-4--lg align-items-baseline">
                       
                       <li class="nav-item g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
                         <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-10" href="page-help-1.html">
@@ -51,7 +52,7 @@
                       </li>
                       <li class="nav-item g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
                         <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-10" href="page-help-1.html">
-                          News & Blog
+                          Our Platform
                         </a>
                       </li>
                       <!-- About - Submenu -->
@@ -91,8 +92,28 @@
 
                       
                       <li class="nav-item g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-10" href="page-pricing-1.html">
-                          Contact Us
+                        <a class="nav-link g-color-primary--hover g-brd-around g-brd-2 g-brd-main g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-4" href="page-pricing-1.html">
+                          Sign In
+                        </a>
+                      </li>
+                      <li class="nav-item g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
+                        <a class="nav-link g-color-primary--hover g-brd-around g-brd-2 g-brd-main g-bg-main g-color-white g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-4" href="page-pricing-1.html">
+                          Sign Up
+                        </a>
+                      </li>
+                      <li class="nav-item g-mx-0 g-mx-3--lg g-mb-5 g-mb-0--lg">
+                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-2 g-py-10" href="page-help-1.html">
+                          繁
+                        </a>
+                      </li>
+                      <li class="nav-item g-mx-0 g-mx-3--lg g-mb-5 g-mb-0--lg">
+                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-2 g-py-10" href="page-help-1.html">
+                          簡
+                        </a>
+                      </li>
+                      <li class="nav-item g-mx-0 g-mx-3--lg g-mb-5 g-mb-0--lg">
+                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-2 g-py-10" href="page-help-1.html">
+                          ENG
                         </a>
                       </li>
 
