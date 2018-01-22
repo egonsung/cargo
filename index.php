@@ -193,7 +193,7 @@
   <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall" data-options='{direction: "reverse", settings_mode_oneelement_max_offset: "150"}'>
     <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-primary-opacity-0_8--after" style="height: 120%; background-image: url(./SJB/assets/img/636036276.jpg);"></div>
 
-    <div class="container g-pt-100 g-pb-70 g-height-100vh d-flex justify-content-center">
+    <div class="container g-pt-100 g-pb-70 g-min-height-100vh d-flex justify-content-center">
       <div class="row justify-content-between align-items-center h-100 g-width-60x">
 
         <div class="col-12 mx-auto g-mb-10 d-flex align-items-center flex-column">
@@ -205,7 +205,7 @@
           </div>
         </div>
 
-        <div class="col-4 pl-4 pr-4">
+        <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
             <div class="row justify-content-center">
               <img src="./SJB/assets/img/icons/services_0.svg">
@@ -214,7 +214,7 @@
           </div>
         </div>
 
-        <div class="col-4 pl-4 pr-4">
+        <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
             <div class="row justify-content-center">
               <img src="./SJB/assets/img/icons/services_1.svg">
@@ -223,7 +223,7 @@
           </div>
         </div>
 
-        <div class="col-4 pl-4 pr-4">
+        <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
             <div class="row justify-content-center">
               <img src="./SJB/assets/img/icons/services_2.svg">
@@ -232,7 +232,7 @@
           </div>
         </div>
 
-        <div class="col-4 pl-4 pr-4">
+        <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
             <div class="row justify-content-center">
               <img src="./SJB/assets/img/icons/services_3.svg">
@@ -241,7 +241,7 @@
           </div>
         </div>
 
-        <div class="col-4 pl-4 pr-4">
+        <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
             <div class="row justify-content-center">
               <img src="./SJB/assets/img/icons/services_4.svg">
@@ -250,7 +250,7 @@
           </div>
         </div>
 
-        <div class="col-4 pl-4 pr-4">
+        <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
             <div class="row justify-content-center">
               <img src="./SJB/assets/img/icons/services_5.svg">
@@ -263,6 +263,28 @@
   </div>
 
   <div class="container g-pt-100 g-pb-70 g-height-80vh d-flex justify-content-center shippingProcessCon">
+    <div class="row justify-content-between align-items-center h-100 g-width-80x">
+      <div class="col-12 mx-auto g-mb-10 d-flex align-items-center flex-column pb-4">
+        <h1 class="text-center g-color-primary g-font-weight-600 g-font-size-30 pt-4 text-uppercase">Shipping Process Explained</h1>
+        <div class="line-separator-small d-flex justify-content-center align-items-center pb-4">
+          <div class="side-line"></div>
+          <div class="triangle"></div>
+          <div class="side-line"></div>
+        </div>
+        <div class="lg col-12">
+          <img src="./SJB/assets/img/process.svg">
+        </div>
+        <div class="md col-12">
+          <img src="./SJB/assets/img/process_md.svg">
+        </div>
+        <div class="sm g-width-100vw">
+          <img src="./SJB/assets/img/process_md.svg">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- <div class="container g-pt-100 g-pb-70 g-height-80vh d-flex justify-content-center shippingProcessCon">
     <div class="row justify-content-between align-items-center h-100 g-width-80x">
       <div class="col-12 mx-auto g-mb-10 d-flex align-items-center flex-column pb-4">
         <h1 class="text-center g-color-primary g-font-weight-600 g-font-size-30 pt-4 text-uppercase">Shipping Process Explained</h1>
@@ -466,7 +488,7 @@
       </div>
 
     </div>
-  </div>
+  </div> -->
 
   <div class="g-bg-primary g-width-100vw shippingServicesCon">
     <div class="container g-pt-100 g-pb-70 d-flex justify-content-center">
@@ -498,17 +520,17 @@
               <div class="col-12 pb-4">
                 <img class="object-fit g-height-200" src="./SJB/assets/img/663106086.jpg">
               </div>
-              <div class="col-4">
+              <div class="col-12 col-lg-4">
                 <h1 class="g-font-size-14 text-uppercase">Include In</h1>
                 <h1 class="g-font-size-20 text-uppercase">The All-In Price</h1>
               </div>
-              <ul class="col-4">
+              <ul class="col-12 col-lg-4">
                 <li class="g-color-text">Receipt of customer’s cargo at the sender’s address</li>
                 <li class="g-color-text">Collection of the relevant shipping documentation online</li>
                 <li class="g-color-text">Consolidation of customer’s cargo with cargo from similarly situated shippers</li>
                 <li class="g-color-text">Issuance of Waybill </li>
               </ul>
-              <ul class="col-4">
+              <ul class="col-12 col-lg-4">
                 <li class="g-color-text">Shipping by sea if the Standard Option is chosen</li>
                 <li class="g-color-text">Shipping by air if the Express Option is chosen</li>
                 <li class="g-color-text">Deconsolidation at destination warehouse</li>
@@ -642,54 +664,7 @@
 <!-- JS Cargo Slider -->
 <script src="SJB/assets/js/cargo-slider.js"></script>
 
-<!-- JS Plugins Init. -->
-<script>
-  $(document).on('ready', function () {
-        // initialization of header
-        $.HSCore.components.HSHeader.init($('#js-header'));
-        $.HSCore.helpers.HSHamburgers.init('.hamburger');
 
-        // initialization of HSMegaMenu component
-        $('.js-mega-menu').HSMegaMenu({
-          event: 'hover',
-          pageContainer: $('.container'),
-          breakpoint: 991
-        });
 
-        // initialization of HSDropdown component
-        $.HSCore.components.HSDropdown.init($('[data-dropdown-target]'), {
-          afterOpen: function () {
-            $(this).find('input[type="search"]').focus();
-          }
-        });
-
-        // initialization of popups
-        $.HSCore.components.HSPopup.init('.js-fancybox');
-
-        // initialization of carousel
-        $.HSCore.components.HSCarousel.init('.js-carousel');
-
-        // initialization of go to
-        $.HSCore.components.HSGoTo.init('.js-go-to');
-
-        $(document).on('ready', function () {
-      // initialization of carousel
-      $.HSCore.components.HSCarousel.init('.js-carousel');
-    });
-
-        $(window).on('load', function() {
-      // initialization of header
-      $.HSCore.components.HSHeader.init($('#js-header'));
-      $.HSCore.helpers.HSHamburgers.init('.hamburger');
-
-      // initialization of HSMegaMenu component
-      $('.js-mega-menu').HSMegaMenu({
-        event: 'hover',
-        pageContainer: $('.container'),
-        breakpoint: 991
-      });
-    });
-
-  </script>
 </body>
 </html>

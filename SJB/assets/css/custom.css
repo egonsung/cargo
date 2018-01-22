@@ -18,6 +18,9 @@ a:hover {
   transform: scaleX(0);
   transition: transform 250ms ease-in-out; }
 
+.hoverFromCenter.g-color-white:after {
+  border-bottom: solid 1px white; }
+
 .hoverFromCenter:hover:after {
   transform: scaleX(1); }
 
@@ -83,5 +86,24 @@ a:hover {
     margin-right: 3px;
     margin-bottom: -3px;
     border-color: #f5d700; }
+
+.sm {
+  display: d-block; }
+
+.md, .lg {
+  display: none; }
+
+@media (min-width: 768px) {
+  .md {
+    display: d-block; }
+
+  .sm, .lg {
+    display: none; } }
+@media (min-width: 992px) {
+  .lg {
+    display: d-block; }
+
+  .sm, .md {
+    display: none; } }
 
 /*# sourceMappingURL=custom.css.map */
