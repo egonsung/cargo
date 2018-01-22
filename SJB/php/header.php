@@ -8,13 +8,13 @@
                 <div class="col-12 pl-0 pr-0 navTop">
                   <ul class="col-auto list-inline g-pos-rel g-top-minus-3 g-py-20 g-py-6--lg g-pr-5 g-mr-60 g-mr-0--lg p-0 m-0 d-flex justify-content-end">
                     <li class="list-inline-item g-mx-0">
-                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="g-color-text fa fa-weibo"></i></a>
+                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent" href="#"><i class="g-color-text fa fa-weibo"></i></a>
                     </li>
                     <li class="list-inline-item g-mx-0">
-                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="g-color-text fa fa-wechat"></i></a>
+                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent" href="#"><i class="g-color-text fa fa-wechat"></i></a>
                     </li>
                     <li class="list-inline-item g-mx-0">
-                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent g-bg-main--hover rounded" href="#"><i class="g-color-text fa fa-linkedin"></i></a>
+                      <a class="u-icon-v3 u-icon-size--xs g-bg-transparent" href="#"><i class="g-color-text fa fa-linkedin"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -46,18 +46,18 @@
                     <ul class="navbar-nav ml-auto g-pb-30 g-pb-4--lg align-items-baseline">
                       
                       <li class="nav-item g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-10" href="page-help-1.html">
+                        <a class="nav-link g-font-weight-600 g-font-size-15 g-px-14 g-py-4 hoverFromCenter" href="page-help-1.html">
                           About Us
                         </a>
                       </li>
                       <li class="nav-item g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-10" href="page-help-1.html">
+                        <a class="nav-link g-font-weight-600 g-font-size-15 g-px-14 g-py-4 hoverFromCenter" href="page-help-1.html">
                           Our Platform
                         </a>
                       </li>
                       <!-- About - Submenu -->
-                      <li class="nav-item hs-has-sub-menu g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a id="nav-link--page" class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-10" href="#"
+                      <li class="nav-item hs-has-sub-menu g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg hoverFromCenter">
+                        <a id="nav-link--page" class="nav-link g-font-weight-600 g-font-size-15 g-px-14 g-py-4" href="#"
                            aria-haspopup="true"
                            aria-expanded="false"
                            aria-controls="nav-submenu--page">
@@ -92,27 +92,27 @@
 
                       
                       <li class="nav-item g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a class="nav-link g-color-primary--hover g-brd-around g-brd-2 g-brd-main g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-4" href="page-pricing-1.html">
+                        <a class="nav-link g-font-weight-600 g-font-size-15 g-px-14 g-py-4 g-brd-around g-brd-primary g-brd-transparent--hover g-bg-transparent g-bg-primary--hover g-color-white--hover" href="page-pricing-1.html">
                           Sign In
                         </a>
                       </li>
                       <li class="nav-item g-mx-15 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a class="nav-link g-color-primary--hover g-brd-around g-brd-2 g-brd-main g-bg-main g-color-white g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-14 g-py-4" href="page-pricing-1.html">
+                        <a class="nav-link g-font-weight-600 g-font-size-15 g-px-14 g-py-4 g-brd-around g-brd-transparent g-brd-primary--hover g-bg-primary g-bg-transparent--hover g-color-white g-color-primary--hover" href="page-pricing-1.html">
                           Sign Up
                         </a>
                       </li>
                       <li class="nav-item g-mx-0 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-2 g-py-10" href="page-help-1.html">
+                        <a class="nav-link g-font-weight-600 g-font-size-15 g-px-2 g-py-4" href="page-help-1.html">
                           繁
                         </a>
                       </li>
                       <li class="nav-item g-mx-0 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-2 g-py-10" href="page-help-1.html">
+                        <a class="nav-link g-font-weight-600 g-font-size-15 g-px-2 g-py-4" href="page-help-1.html">
                           簡
                         </a>
                       </li>
                       <li class="nav-item g-mx-0 g-mx-3--lg g-mb-5 g-mb-0--lg">
-                        <a class="nav-link rounded g-color-primary--hover g-bg-transparent g-bg-main--hover g-font-weight-600 g-font-size-15 g-px-2 g-py-10" href="page-help-1.html">
+                        <a class="nav-link g-font-weight-600 g-font-size-15 g-px-2 g-py-4" href="page-help-1.html">
                           ENG
                         </a>
                       </li>

@@ -20,37 +20,37 @@
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">About Us</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">About Us</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Our Platform</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Our Platform</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Sign Up</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Sign Up</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Sign In</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Sign In</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">News & Blog</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">News & Blog</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Terms & Conditions</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Terms & Conditions</a>
                 </h3>
               </article>
             </div>
@@ -64,43 +64,43 @@
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Beginner's Guide</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Beginner's Guide</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Account Management</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Account Management</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">LCL Shipping Essentials</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">LCL Shipping Essentials</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Customs and Compliance</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Customs and Compliance</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Cargo Insurance and Claims</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Cargo Insurance and Claims</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">Shipping to Amazon FBA</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">Shipping to Amazon FBA</a>
                 </h3>
               </article>
 
               <article>
                 <h3 class="h6 g-mb-4">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14" href="#!">International Shipping Guide</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover g-font-size-14 hoverFromCenter" href="#!">International Shipping Guide</a>
                 </h3>
               </article>
             </div>

@@ -4,8 +4,39 @@
 	width:100%;
 	object-fit: cover;
 }
-.navTop{
+
+a:hover {
+    text-decoration: none;
 }
+
+.hoverFromCenter{
+	color: #666;display:inline-block; margin:0;text-transform:uppercase;
+}
+.hoverFromCenter:after {
+  display:block;
+  content: '';
+  border-bottom: solid 1px $g-color-primary;  
+  transform: scaleX(0);  
+  transition: transform 250ms ease-in-out;
+}
+.hoverFromCenter:hover:after { 
+	transform: scaleX(1); 
+}
+
+// #navBar{
+// 	ul{
+// 		li{
+// 			a{
+// 				border-bottom: none;
+// 				transition: all ease-in-out 0.25s;
+// 			}
+// 			a:hover{
+// 				border-bottom: thin solid $g-color-primary;
+// 				transition: all ease-in-out 0.25s;
+// 			}
+// 		}
+// 	}
+// }
 
 .mainSlider{
 	height: 70vh;
