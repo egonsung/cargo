@@ -137,7 +137,7 @@ a:hover {
 }
 
 .sm{
-	display: d-block;
+	display: block;
 }
 .md, .lg{
 	display: none;
@@ -145,7 +145,7 @@ a:hover {
 
 @media (min-width: 768px) {
 	.md{
-		display: d-block;
+		display: block;
 	}
 	.sm, .lg{
 		display: none;
@@ -154,7 +154,7 @@ a:hover {
 
 @media (min-width: 992px) {
 	.lg{
-		display: d-block;
+		display: block;
 	}
 	.sm, .md{
 		display: none;

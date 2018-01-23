@@ -88,20 +88,20 @@ a:hover {
     border-color: #f5d700; }
 
 .sm {
-  display: d-block; }
+  display: block; }
 
 .md, .lg {
   display: none; }
 
 @media (min-width: 768px) {
   .md {
-    display: d-block; }
+    display: block; }
 
   .sm, .lg {
     display: none; } }
 @media (min-width: 992px) {
   .lg {
-    display: d-block; }
+    display: block; }
 
   .sm, .md {
     display: none; } }
