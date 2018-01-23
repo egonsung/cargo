@@ -168,33 +168,32 @@
     </div>
   </div>
 
-  <!-- End Promo Block -->
-  <div class="trackIDCon">
+   <!--  Tracking ID BOX --> 
+   <div class="trackIDCon">
     <div class="container trackIDBlk p-4">
       <div class="trackIDFloat">
         <div class="form-group">
-          <label class="g-mb-10 text-uppercase" for="inputGroup1_2">Shipment Tracking</label>
+          <h4 class="g-mb-10 text-uppercase" for="inputGroup1_2">Shipment Tracking</h4>
 
-          <div class="input-group u-file-attach-v1 g-brd-gray-light-v2">
-            <input id="inputGroup1_2" class="form-control form-control-md rounded-0" type="text" placeholder="Shipment Reference Number" readonly="">
-
+          <div class="input-group ">
+            <input class="form-control form-control-md rounded-0" type="text" placeholder="Shipment Reference Number" >
             <div class="input-group-btn">
-              <button class="btn btn-md u-btn-primary rounded-0" type="submit"><i class="g-color-white fa fa-search"></i></button>
-              <input type="file">
+              <button class="btn btn-md u-btn-primary rounded-0" type="submit" style="width:120px;"><i class="g-color-white fa fa-search"></i></button>              
             </div>
           </div>
+          
         </div>
       </div>
     </div>
   </div>
-  <!-- About -->
+  <!--END Tracking ID BOX -->  
 
 
   <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall" data-options='{direction: "reverse", settings_mode_oneelement_max_offset: "150"}'>
     <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-primary-opacity-0_8--after" style="height: 120%; background-image: url(./SJB/assets/img/636036276.jpg);"></div>
 
     <div class="container g-pt-100 g-pb-70 g-min-height-100vh d-flex justify-content-center">
-      <div class="row justify-content-between align-items-center h-100 g-width-60x">
+      <div class="row justify-content-between align-items-center h-100 g-max-width-670">
 
         <div class="col-12 mx-auto g-mb-10 d-flex align-items-center flex-column">
           <h1 class="text-center g-color-white g-font-weight-600 g-font-size-30 pt-4 text-uppercase">Why CS Global LTL Services?</h1>
@@ -207,8 +206,8 @@
 
         <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
-            <div class="row justify-content-center">
-              <img src="./SJB/assets/img/icons/services_0.svg">
+            <div class="d-flex flex-column align-items-center justify-content-center">
+              <img class="g-max-width-200" src="./SJB/assets/img/icons/services_0.svg">
               <h2 class="g-color-secondary g-font-size-14 text-center">We have optimized DAP, DDP and EXW shipping for you</h2>
             </div>
           </div>
@@ -216,8 +215,8 @@
 
         <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
-            <div class="row justify-content-center">
-              <img src="./SJB/assets/img/icons/services_1.svg">
+            <div class="d-flex flex-column align-items-center justify-content-center">
+              <img class="g-max-width-200" src="./SJB/assets/img/icons/services_1.svg">
               <h2 class="g-color-secondary g-font-size-14 text-center">We commit to what we quote for up to 30 days </h2>
             </div>
           </div>
@@ -225,8 +224,8 @@
 
         <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
-            <div class="row justify-content-center">
-              <img src="./SJB/assets/img/icons/services_2.svg">
+            <div class="d-flex flex-column align-items-center justify-content-center">
+              <img class="g-max-width-200" src="./SJB/assets/img/icons/services_2.svg">
               <h2 class="g-color-secondary g-font-size-14 text-center">Our quote includes a competitively-priced cargo insurance</h2>
             </div>
           </div>
@@ -234,8 +233,8 @@
 
         <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
-            <div class="row justify-content-center">
-              <img src="./SJB/assets/img/icons/services_3.svg">
+            <div class="d-flex flex-column align-items-center justify-content-center">
+              <img class="g-max-width-200" src="./SJB/assets/img/icons/services_3.svg">
               <h2 class="g-color-secondary g-font-size-14 text-center">We supplement LCL shipping with an airfreight option </h2>
             </div>
           </div>
@@ -243,8 +242,8 @@
 
         <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
-            <div class="row justify-content-center">
-              <img src="./SJB/assets/img/icons/services_4.svg">
+            <div class="d-flex flex-column align-items-center justify-content-center">
+              <img class="g-max-width-200" src="./SJB/assets/img/icons/services_4.svg">
               <h2 class="g-color-secondary g-font-size-14 text-center">Our platform can work seamlessly with your customs broker</h2>
             </div>
           </div>
@@ -252,8 +251,8 @@
 
         <div class="col-12 col-md-6 col-lg-4 pl-4 pr-4">
           <div class="p-4">
-            <div class="row justify-content-center">
-              <img src="./SJB/assets/img/icons/services_5.svg">
+            <div class="d-flex flex-column align-items-center justify-content-center">
+              <img class="g-max-width-200" src="./SJB/assets/img/icons/services_5.svg">
               <h2 class="g-color-secondary g-font-size-14 text-center">We provide full customer support offline</h2>
             </div>
           </div>
@@ -508,7 +507,7 @@
             <a class="nav-link g-font-size-25 text-uppercase active" data-toggle="tab" href="#nav-4-1-accordion-primary-hor-justified--1" role="tab">Standard services</a>
           </li>
           <li class="nav-item g-font-size-25 text-uppercase">
-            <a class="nav-link" data-toggle="tab" href="#nav-4-1-accordion-primary-hor-justified--2" role="tab">Sea et</a>
+            <a class="nav-link" data-toggle="tab" href="#nav-4-1-accordion-primary-hor-justified--2" role="tab">Value-added Services</a>
           </li>
         </ul>
         <!-- End Nav tabs -->
@@ -524,13 +523,13 @@
                 <h1 class="g-font-size-14 text-uppercase">Include In</h1>
                 <h1 class="g-font-size-20 text-uppercase">The All-In Price</h1>
               </div>
-              <ul class="col-12 col-lg-4">
+              <ul class="col-12 col-lg-4 mb-0">
                 <li class="g-color-text">Receipt of customer’s cargo at the sender’s address</li>
                 <li class="g-color-text">Collection of the relevant shipping documentation online</li>
                 <li class="g-color-text">Consolidation of customer’s cargo with cargo from similarly situated shippers</li>
                 <li class="g-color-text">Issuance of Waybill </li>
               </ul>
-              <ul class="col-12 col-lg-4">
+              <ul class="col-12 col-lg-4 mb-0">
                 <li class="g-color-text">Shipping by sea if the Standard Option is chosen</li>
                 <li class="g-color-text">Shipping by air if the Express Option is chosen</li>
                 <li class="g-color-text">Deconsolidation at destination warehouse</li>
@@ -540,11 +539,31 @@
             </div>
           </div>
           <div class="tab-pane p-4 fade" id="nav-4-1-accordion-primary-hor-justified--2" role="tabpanel">
-            <p>Equidem recteque sea et. Per detracto iracundia ea, duo nusquam denique omittantur in. Nam ex quas saperet, solum convenire vel in, dicant atomorum his ne. Putant bonorum in nam, nostrud neglegentur accommodare eam ad. Quo cu primis
-            delenit.</p>
-
-            <p>Nam ut viris disputando dissentiunt, sumo vocent ad mea. Vel justo debitis neglegentur an. Facer doctus inimicus et est, sed ea sint dicant. Per soleat pertinax complectitur et, pro no porro cetero, mea probo apeirian torquatos ut.
-            Habeo dicat errem quo et, ut democritum sententiae eloquentiam cum. Sit ad oblique inciderint reformidans, homero albucius voluptatum pro te, saepe laoreet in est.</p>
+            <div class="row">
+              <div class="col-12 pb-4">
+                <img class="object-fit g-height-200" src="./SJB/assets/img/598134820.png">
+              </div>
+              <div class="col-12 col-lg-4">
+                <h1 class="g-font-size-14 text-uppercase">OFFERED AS</h1>
+                <h1 class="g-font-size-20 text-uppercase">VALUE-ADDED SERVICES</h1>
+              </div>
+              <ul class="col-12 col-lg-4 mb-0">
+                <li class="g-color-text">Handling of duties and taxes</li>
+                <li class="g-color-text">Filling out the Importer Security Filing (ISF) form at origin(for US-bound cargo)</li>
+                <li class="g-color-text">Liftgate service</li>
+                <li class="g-color-text">Delivery to exhibition sites</li>
+              </ul>
+              <ul class="col-12 col-lg-4 mb-0">
+                <li class="g-color-text">Residential pickup or delivery</li>
+                <li class="g-color-text">Extra labour</li>
+                <li class="g-color-text">Limited access pickup or delivery</li>
+                <li class="g-color-text">Notification prior to delivery</li>
+                <li class="g-color-text">Redelivery</li>
+              </ul>
+              <div class="col-12 col-lg-8 offset-lg-4">
+                <p class="small">*  The availability of such services vary from country to country. Should such services are required, please contact us and our customer service representative will attend your enquiry as early as possible.</p>
+              </div>
+            </div>
           </div>
         </div>
         <!-- End Tab panes -->
@@ -569,15 +588,15 @@
         </div>
 
 
-        <div class="shortcode-html">
+        <div class="col-12 shortcode-html">
           <div id="accordion-11" class="u-accordion u-accordion-bg-secondary u-accordion-color-main" role="tablist" aria-multiselectable="true">
             <!-- Card -->
             <div class="card g-brd-none rounded-0 g-mb-0">
               <div id="accordion-11-heading-01 p-4" class="u-accordion__header g-pa-0" role="tab">
                 <h5 class="mb-0">
-                  <a class="d-block g-text-underline--none--hover g-brd-around g-brd-gray-light-v4 g-rounded-0 g-pa-10-15 d-flex justify-content-between" href="#accordion-11-body-01" data-toggle="collapse" data-parent="#accordion-11" aria-expanded="true" aria-controls="accordion-11-body-01">
+                  <a class="d-block g-font-size-25 g-text-underline--none--hover g-brd-around g-brd-gray-light-v4 g-rounded-0 d-flex justify-content-start align-items-center p-4" href="#accordion-11-body-01" data-toggle="collapse" data-parent="#accordion-11" aria-expanded="true" aria-controls="accordion-11-body-01"><i class="fa fa-check-square-o pr-4" aria-hidden="true"></i>
                     ACCEPTED CARGO
-                    <span class="u-accordion__control-icon g-mr-10">
+                    <span class="u-accordion__control-icon ml-auto">
                       <i class="fa fa-angle-down"></i>
                       <i class="fa fa-angle-up"></i>
                     </span>
@@ -587,11 +606,11 @@
               <div id="accordion-11-body-01" class="collapse show" role="tabpanel" aria-labelledby="accordion-11-heading-01">
                 <div class="u-accordion__body g-color-gray-dark-v5 p-4">
                   <div class="row p-4">
-                    <ul class="col-12 col-lg-6">
+                    <ul class="col-12 col-lg-6 mb-0">
                       <li>General cargoes of non-valuable, non-fragile and non-perishable such as general garments , textiles, toys, plastic goods, books, printed matters, brushes, cotton yarn, hardware, keyrings, linen goods, nylon goods, screws, stationery, umbrellas, houseware, kitchenware, shoes (unit price not exceeding US$50), papers and chemical goods (non-dangerous)</li>
                       <li>Family electrical goods & spare parts</li>
                     </ul>
-                    <ul class="col-12 col-lg-6">  
+                    <ul class="col-12 col-lg-6 mb-0">  
                       <li>Brand new general wooden/plastic/metal furniture (including office/family)</li>
                       <li>Machinery/equipment (unit price not exceeding HK$500,000)</li>
                       <li>Wine/alcoholic beverages (maximum value bottle US$100)</li>
@@ -607,9 +626,9 @@
             <div class="card g-brd-none rounded-0 g-mb-15">
               <div id="accordion-11-heading-02 p-4" class="u-accordion__header g-pa-0" role="tab">
                 <h5 class="mb-0">
-                  <a class="collapsed d-block g-text-underline--none--hover g-brd-around g-brd-gray-light-v4 g-rounded-0 g-pa-10-15 d-flex justify-content-between" href="#accordion-11-body-02" data-toggle="collapse" data-parent="#accordion-11" aria-expanded="false" aria-controls="accordion-11-body-02">
+                  <a class="collapsed d-block g-font-size-25 g-text-underline--none--hover g-brd-around g-brd-gray-light-v4 g-rounded-0 d-flex justify-content-start align-items-center p-4" href="#accordion-11-body-02" data-toggle="collapse" data-parent="#accordion-11" aria-expanded="false" aria-controls="accordion-11-body-02"><i class="fa fa-window-close-o pr-4" aria-hidden="true"></i>
                     UNACCEPTED CARGO
-                    <span class="u-accordion__control-icon g-mr-10">
+                    <span class="u-accordion__control-icon ml-auto">
                       <i class="fa fa-angle-down"></i>
                       <i class="fa fa-angle-up"></i>
                     </span>
@@ -619,11 +638,11 @@
               <div id="accordion-11-body-02" class="collapse" role="tabpanel" aria-labelledby="accordion-11-heading-02">
                 <div class="u-accordion__body g-color-gray-dark-v5 p-4">
                   <div class="row p-4">
-                    <ul class="col-12 col-lg-6">
+                    <ul class="col-12 col-lg-6 mb-0">
                       <li>Dangerous and hazardous goods: Money, gold, coins, debentures, share certificates, stamps, securities, stocks, bonds, deeds, negotiable documents, travel tickets, jewelry, precious stones or articles composed of any of them, rare books, antiques, artwork, collector's items</li>
                       <li>Credit cards, passports and personal documents including identity cards and any certificate of identity</li>
                     </ul>
-                    <ul class="col-12 col-lg-6">  
+                    <ul class="col-12 col-lg-6 mb-0">  
                       <li>Computer system records, or any kinds of electronic storage media</li>
                       <li>Documents, patterns models, moulds or plans design</li>
                       <li>Any kinds of food</li>

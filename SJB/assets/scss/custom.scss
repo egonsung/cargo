@@ -1,5 +1,9 @@
 @import "variables.multipage-marketing";
 
+html{
+	overflow-x: hidden;
+	width: 100vw;
+}
 .object-fit{
 	width:100%;
 	object-fit: cover;
