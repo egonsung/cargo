@@ -1,5 +1,5 @@
 <footer>
-        <div class="g-bg-dark g-hidden-sm-down">
+        <div class="g-bg-primary g-hidden-sm-down">
           <div class="container g-pt-40 g-pb-10">
             <div class="row">
             
@@ -19,32 +19,32 @@
                 <!-- Links -->
                 <ul class="list-unstyled mb-0"  style="line-height:1.4em;">
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>About Us</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Our Platform</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Sign Up</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Sign In</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>News & Blog</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Terms & Conditions</span>
                     </a>
                   </li>
@@ -61,37 +61,37 @@
                 <!-- Links -->
                 <ul class="list-unstyled mb-0"  style="line-height:1.4em;">
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Beginner's Guide</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Account Management</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>LCL Shipping Essentials</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Customs and Compliance</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Cargo Insurance and Claims</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>Shipping to Amazon FBA</span>
                     </a>
                   </li>
                   <li>
-                    <a class="u-link-v6 g-color-white g-color-primary--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
+                    <a class="u-link-v6 g-color-white g-color-white--hover g-font-weight-500 g-text-underline--none--hover g-py-3 hoverFromCenter" href="#">
                       <span>International Shipping Guide</span>
                     </a>
                   </li>
