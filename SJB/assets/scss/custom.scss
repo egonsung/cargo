@@ -20,7 +20,7 @@ a:hover {
   display:block;
   content: '';
   border-bottom: solid 1px $g-color-primary;  
-  transform: scaleX(0);  
+  transform: scaleX(0); 
   transition: transform 250ms ease-in-out;
 }
 .hoverFromCenter.g-color-white:after {

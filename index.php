@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <?php include_once("SJB/php/meta.php");?>
+  <link rel="stylesheet" href="SJB/assets/css/tracking.css">
 </head>
 
 <body>
@@ -178,7 +179,7 @@
           <div class="input-group ">
             <input class="form-control form-control-md rounded-0" type="text" placeholder="Shipment Reference Number" >
             <div class="input-group-btn">
-              <button class="btn btn-md u-btn-primary rounded-0" type="submit" style="width:120px;"><i class="g-color-white fa fa-search"></i></button>              
+              <button class="btn btn-md u-btn-primary rounded-0" type="button" style="width:120px;" data-toggle="modal" data-target="#trackingModal" data-whatever="trackingNo"><i class="g-color-white fa fa-search"></i></button>              
             </div>
           </div>
           
@@ -186,7 +187,7 @@
       </div>
     </div>
   </div>
-  <!--END Tracking ID BOX -->  
+  <!--END Tracking ID BOX -->   
 
 
   <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall" data-options='{direction: "reverse", settings_mode_oneelement_max_offset: "150"}'>
@@ -672,6 +673,86 @@
 </a>
 <!-- End Go to Top -->
 </main>
+
+<!--  Tracking Model -->
+<div class="modal fade" id="trackingModal" tabindex="-1" role="dialog" aria-labelledby="trackingModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="trackingModalLabel">New message</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      
+      
+      <div class="modal-body">
+        <div class="col-12">            
+          <div class="checkout-wrap">
+            <ul class="checkout-bar">
+
+              <li class="visited first">
+                <a href="#">Login</a>
+              </li>
+              
+              <li class="previous visited">Shipping & Billing</li>
+              
+              <li class="active">Shipping Options</li>
+              
+              <li class="next">Review & Payment</li>
+              
+              <li class="">Complete</li>
+                 
+            </ul>
+          </div>
+        </div>
+        <form>
+          <div class="form-group">
+            <label for="recipient-name" class="form-control-label">Recipient:</label>
+            <input type="text" class="form-control" id="recipient-name">
+          </div>
+          <div class="form-group">
+            <label for="message-text" class="form-control-label">Message:</label>
+            <textarea class="form-control" id="message-text"></textarea>
+          </div>
+        </form>
+        
+         <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-4">.col-md-4</div>
+              <div class="col-md-4 col-md-offset-4">.col-md-4 .col-md-offset-4</div>
+            </div>
+            <div class="row">
+              <div class="col-md-3 col-md-offset-3">.col-md-3 .col-md-offset-3</div>
+              <div class="col-md-2 col-md-offset-4">.col-md-2 .col-md-offset-4</div>
+            </div>
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3">.col-md-6 .col-md-offset-3</div>
+            </div>
+            <div class="row">
+              <div class="col-sm-9">
+                Level 1: .col-sm-9
+                <div class="row">
+                  <div class="col-8 col-sm-6">
+                    Level 2: .col-8 .col-sm-6
+                  </div>
+                  <div class="col-4 col-sm-6">
+                    Level 2: .col-4 .col-sm-6
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+      </div>
+      
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--  End Of Tracking Model -->
 
 <?php include_once("SJB/php/javascript.php"); ?>
 
